@@ -1,1 +1,1 @@
-# Diagnosis_agent
+# 基于Qwen大模型的智能网络故障诊断系统
